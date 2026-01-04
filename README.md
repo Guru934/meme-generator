@@ -6,6 +6,13 @@ It allows users to generate memes using random image templates and logically pai
 
 The project focuses on **clean code structure**, **logic-driven randomness**, and **separation of concerns**, rather than quick hacks.
 
+## GUI Preview
+
+Below is a preview of the Meme Generator GUI:
+
+![Meme Generator GUI](screenshots/gui_preview.png)
+
+
 ---
 
 ## Features
